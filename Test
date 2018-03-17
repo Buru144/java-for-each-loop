@@ -1,0 +1,12 @@
+public class Test{
+public static void main(String args[]){
+String[] words={"Zebra","Zinda","Zindi"."Zindera","Zindegia"};
+for(String word: words){
+if (word.contain(de)){
+System.out.println("word containing with de"+word);
+}
+}
+
+
+
+}
